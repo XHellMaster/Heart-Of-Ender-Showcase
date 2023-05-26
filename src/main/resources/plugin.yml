@@ -1,0 +1,26 @@
+name: HeartOfEnder
+version: '${project.version}'
+main: net.heartofender.heartofender.Main
+api-version: 1.19
+commands:
+  test:
+    description: test
+    usage: /<command>
+  tidalwave:
+    description: tidal
+    usage: /<command>
+  whirlpool:
+    description: whirlpool
+    usage: /<command>
+  blazefury:
+    description: blazefury
+    usage: /<command>
+  galeforce:
+    description: galeforce
+    usage: /<command>
+  typhoon:
+    description: typhoon
+    usage: /<command>
+  altar:
+    description: gives altars
+    usage: /<command>
